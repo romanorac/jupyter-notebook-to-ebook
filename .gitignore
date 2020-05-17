@@ -1,0 +1,9 @@
+*.csv
+.DS_Store
+.ipynb_checkpoints/
+*.mov
+*.pdf
+*.html
+*.azw3
+*.epub
+cpdf

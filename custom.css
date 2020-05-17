@@ -1,0 +1,41 @@
+div#notebook {
+    font-size: 18px;
+    line-height: 26px;
+}
+
+img {
+    max-width: 100% !important;
+    page-break-inside: avoid;
+}
+
+tr, img {
+    page-break-inside: avoid;
+}
+
+*, *:before, *:after {
+    background: transparent !important;
+    box-shadow: none !important;
+    text-shadow: none !important;
+}
+
+
+p, h2, h3 {
+    orphans: 3;
+    widows: 3;
+    page-break-inside: avoid;
+}
+
+
+*, *:before, *:after {
+    page-break-inside: avoid;
+    background: transparent !important;
+    box-shadow: none !important;
+    text-shadow: none !important;
+}
+
+*, *:before, *:after {
+    page-break-inside: avoid;
+    background: transparent !important;
+    box-shadow: none !important;
+    text-shadow: none !important;
+}
